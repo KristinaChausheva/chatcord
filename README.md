@@ -10,3 +10,4 @@ npm run dev
 
 Go to localhost:3000
 ```
+site is published at https://kristinachausheva.github.io/chatcord/.
